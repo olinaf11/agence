@@ -1,0 +1,9 @@
+input{
+    width: 100%;
+}
+.center{
+    margin-left: 25%;
+}
+button,li{
+    margin-bottom: 10px;
+}
